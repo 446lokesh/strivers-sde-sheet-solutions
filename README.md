@@ -8,6 +8,7 @@ The goal of this repo is to:
 - Maintain consistency & track progress ✅
 - Share my journey publicly for accountability 🌍
 - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/?utm_source=chatgpt.com
+- https://leetcode.com/u/_lokesh_R/
 
 ---
 
