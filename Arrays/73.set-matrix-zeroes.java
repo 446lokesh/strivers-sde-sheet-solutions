@@ -1,3 +1,5 @@
+
+//@lc app=leetcode id=73 lang=java
 // Problem: https://leetcode.com/problems/set-matrix-zeroes/
 // Approach: Use first row & column as markers to track zero positions
 // Time Complexity: O(m * n)
